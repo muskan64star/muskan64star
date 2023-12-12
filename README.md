@@ -16,7 +16,9 @@ Hi, I'm Muskan Gautam, a passionate self-taught ML engineer and Data Science ent
 - 🌱 I’m currently pursuing my Int. M. tech in specialization of Artificial Intelligence from VIT(Vellore Institute of Technology - Bhopal).
 - 👯 I’m looking to collaborate on ML projects.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/muskan-gautam-19b62122a/)
+- 📫 How to reach me: <a href="mailto:muskan.gautam2020@vitbhopal.ac.in">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/gmail.svg" align="center" color="FFA500" alt="GMAIL" style="vertical-align:top; margin:4px">
+  </a>
 - 😄 Pronouns: She/her
 
 
