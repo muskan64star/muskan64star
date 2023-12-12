@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<br />
+</h1>
+
+<p align='center'><em><b>First, solve the problem. Then write the code</b></em>
+<br/>
+ <em><b>- John Johnson</em>
+<br><br/>
+
+
 Hi, I'm Muskan Gautam, a passionate self-taught ML engineer and Data Science enthusiast from India. I'm deeply passionate to utilize the new techniques and immerse in the trending software skills. My dedication to learning inspires me to grow more and code more. Through projects, courses and certifications, I've edged my problem solving skills, enhanced knowledge depths and ability to work collaboratively with others.
 
 
