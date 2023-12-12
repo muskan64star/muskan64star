@@ -13,7 +13,7 @@ Hi, I'm Muskan Gautam, a passionate self-taught ML engineer and Data Science ent
 
 
 - 🔭 I’m currently working on Web development
-- 🌱 I’m currently pursuing my Int. M. tech in specialization of Artificial Intelligence rom VIT(Vellore Institute of Technology - Bhopal).
+- 🌱 I’m currently pursuing my Int. M. tech in specialization of Artificial Intelligence from VIT(Vellore Institute of Technology - Bhopal).
 - 👯 I’m looking to collaborate on ML projects.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/muskan-gautam-19b62122a/)
@@ -36,6 +36,25 @@ Hi, I'm Muskan Gautam, a passionate self-taught ML engineer and Data Science ent
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+
+---
+### 📢 Find me elsewhere,
+<p style="white-space: nowrap;">
+   <a href="https://www.linkedin.com/in/muskan-gautam-19b62122a/" target="blank" style="display: inline-block; margin-right: 300px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muskan-gautam-19b62122a/" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/user4223WM/" target="blank" style="display: inline-block; margin-right: 30px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user4223WM/" height="30" width="30" />&nbsp;&nbsp;&nbsp;
+  </a>
+  
+  <a href="https://auth.geeksforgeeks.org/user/muskangavyqa" target="blank" style="display: inline-block; margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/muskangavyqa" height="30" width="30" />&nbsp;&nbsp;&nbsp;
+  </a>
+ 
+</p>
+<br><br>
+
 
 <!--
 **muskan64star/muskan64star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
