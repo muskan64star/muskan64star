@@ -3,7 +3,7 @@
 <br />
 </h1>
 
-<p align='center'><em><b>First, solve the problem. Then write the code</b></em>
+<p align='center'><em><b>First, solve the problem. Then write the code.</b></em>
 <br/>
  <em><b>- John Johnson</em>
 <br><br/>
